@@ -1,0 +1,14 @@
+{
+  "CH243": {
+    "usuario": "sfabian0",
+    "sucursal_origen": "12",
+    "almacen": "01",
+    "linea": "99",
+    "codigo": "CH243",
+    "localizacion_origen": "P01B0101A",
+    "localizacion_destino": "T61B6161G",
+    "cantidad_a_mover": "100000",
+    "dso": "Z01",
+    "work_zone": "T_WZ_01P"
+  }
+}

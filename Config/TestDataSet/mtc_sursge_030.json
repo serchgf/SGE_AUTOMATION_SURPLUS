@@ -1,0 +1,21 @@
+{
+  "mtc_sursge_030": {
+    "sucursal_origen": "12",
+    "sucursal_destino": "16",
+    "linea": "31",
+    "codigo": "1000",
+    "almacen": "01",
+    "cantidad_a_mover": "1",
+    "clave_surtidor": "0000000001",
+    "clave_empacador": "0000000002",
+    "usuario_almacen": "sfabian",
+    "password_almacen": "123",
+    "peso_embarque": "10.00",
+    "identificador_caja": "001",
+    "compañia_transporte": "02",
+    "codigo_vehiculo": "03FA5F",
+    "nombre_chofer": "ALCANTAR CALDERON HECTOR ALEJA",
+    "nombre_recibe": "Grecia",
+    "comentario_recepcion": "Traspaso completado"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mtc_sursge_026": {
+    "sucursal_origen": "12",
+    "cuenta": "45820263",
+    "linea": "31",
+    "codigo": "1000",
+    "almacen": "01",
+    "cantidad_a_mover": "2",
+    "localizacion_multiple_destino": "P11B1111B"
+  }
+}

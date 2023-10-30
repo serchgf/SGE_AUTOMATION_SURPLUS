@@ -1,0 +1,25 @@
+{
+  "mtc_sursge_022": {
+    "sucursal_origen": "12",
+    "almacen": "01",
+    "clave_DSO": "Z01",
+    "descripcion_DSO": "Test DSO Z01",
+    "CEDI": "12",
+    "zona": "990",
+    "descripcion_de_la_zona": "TEST ZONE 990 LIGADA CON DS0 Z01",
+    "work_zone": "T_WZ_01P",
+    "pasillo_desde": "P01",
+    "pasillo_hasta": "P10",
+    "bahia_desde": "B01",
+    "bahia_hasta": "B10",
+    "nivel_desde": "01",
+    "nivel_hasta": "10",
+    "localizacion": "P01B0101A",
+    "linea": "99",
+    "codigo": "CH243",
+    "minimo": "1",
+    "maximo": "100000",
+    "localizacion_destino": "P01B0101A",
+    "cantidad_a_mover": "100000"
+  }
+}

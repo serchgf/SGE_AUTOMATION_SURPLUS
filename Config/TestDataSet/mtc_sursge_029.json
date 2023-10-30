@@ -1,0 +1,13 @@
+{
+  "mtc_sursge_029": {
+    "sucursal_origen": "6",
+    "sucursal_destino": "12",
+    "linea": "31",
+    "codigo": "1000",
+    "almacen": "01",
+    "cantidad_a_mover": "2",
+    "nombre_recibe": "Luis",
+    "comentario_recepcion": "Traspaso completado",
+    "usuario_almacen": "sfabian"
+  }
+}

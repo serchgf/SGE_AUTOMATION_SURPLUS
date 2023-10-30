@@ -1,0 +1,10 @@
+{
+  "mtc_sursge_021": {
+    "sucursal_origen": "12",
+    "codigo": "CH700",
+    "linea": "99",
+    "almacen": "01",
+    "localizacion_origen": "P41B4141E",
+    "localizacion_destino": "P51B5151F"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "mtc_sursge_028": {
+    "sucursal_origen": "6",
+    "sucursal_destino": "12",
+    "linea": "31",
+    "codigo": "1000",
+    "almacen": "01",
+    "cantidad_a_mover": "2",
+    "password_almacen": "123",
+    "nombre_recibe": "Grecia",
+    "comentarion_recepcion": "Traspaso completado"
+  }
+}
